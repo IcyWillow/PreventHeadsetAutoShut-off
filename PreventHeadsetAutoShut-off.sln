@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreventHeadsetAutoShut-off", "PreventHeadsetAutoShut-off.csproj", "{0F2E2D6D-51DE-4E0E-918E-4061BC72C363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2E2D6D-51DE-4E0E-918E-4061BC72C363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2E2D6D-51DE-4E0E-918E-4061BC72C363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2E2D6D-51DE-4E0E-918E-4061BC72C363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2E2D6D-51DE-4E0E-918E-4061BC72C363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62D26FC8-7828-49FB-BB0E-0047A0668448}
+	EndGlobalSection
+EndGlobal
